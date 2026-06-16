@@ -1,0 +1,8 @@
+AudoDL A800服务器
+ssh -p <port> root@<host>
+密码: <不要提交真实密码>
+
+学术加速参考: https://www.autodl.com/docs/network_turbo/
+
+Wan2.2-5B模型: 服务器上已有
+smoke training dataset: https://huggingface.co/datasets/nvidia/BridgeData2-Subset-Synthetic-Captions

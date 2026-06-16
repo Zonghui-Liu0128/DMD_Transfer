@@ -1,0 +1,4 @@
+[submodule "DiffSynth-Studio_BSA_DMD"]
+	path = DiffSynth-Studio_BSA_DMD
+	url = https://github.com/Zonghui-Liu0128/wan22-ti2v-block-sparse-attn.git
+	branch = codex/rdp-latent-handoff
